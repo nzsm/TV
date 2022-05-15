@@ -1,9 +1,3 @@
-搜开源
-
-1
-(图像: 功能更新)
-(图像: Aeve-aeve)
-
 [Adblock Plus 2.0]
 ! Checksum: B1AJis5/QUEo3TOB9Oq/cQ
 ! Title: My AdFilters
@@ -22,7 +16,6 @@
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
-
 ||zhenben.cc/2000/
 ||zhuishubox.com/js/after-rain.js
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.666wx.cc|m.ajnnan.com|m.biqugee.com|m.biqusa.com|m.bqg99.cc|m.bswtan.com|m.jmshuwu.net|m.wx-book.com|m.xbiquwx.la|wodexiaoshuoh.com
@@ -30,7 +23,6 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=x23us.us|00ksw.c
 @@.com/ad.aspx|$domain=xdingdiann.com
 @@||bcebos.com^$script,domain=31xiaoshuo.com|biququ.info|jingwubook.com
 @@||bdimg.com/libs/$domain=00ksw.com|147xsw.com|18xs.org|1biquge.net|23xsww.com|24kwx.cc|52biquge.com|abcxs.net|b520.cc|b5200.net|biqiugege8.com|biqiugexsw.com|biqkan.com|biquge99.cc|biqugecd.com|biqugeg.com|biqugeq.com|biqugesk.org|biqugetv.com|biqugewu.net|biqulu.net|biquw.com|bixia.org|boquku.com|bqg999.cc|bqkan8.com|bqwxg8.com|cits0871.com|ddbqgtxt.com|didaxiaoshuo.cc|exiaoshuo.com|gdbzkz.com|ggkxs.com|huanyue123.com|huixsw.com|iqksw.com|janpn.com|jx.la|kuxiaoshuo.com|ldks.cc|lindiankanshu.cc|mxguan5.com|paoshu8.com|piaotian5.net|qbiqu.com|qianqianxsw.net|qianrenge.cc|quge66.com|ranwen.com|shuquge.com|sizhicn.com|sytxt.cc|taiuu.com|ttzw.tv|txtwan.com|viviyzw.com|x23us.me|xbiqugecc.com|xiaoshuwu5.com|xinxs.la|xmalshenzu.com|xqianqian.com|xshuyaya.net|xxqb5200.com|yanmoxuan.net|yssm.info|yuyougu.com|zbzw.la|zhhbqg.com
-
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
