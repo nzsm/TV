@@ -1,5 +1,4 @@
-{
-"spider":"./jar/20231121-1019.pg.nogo.jar;md5;dcc5b0381a73bfcf19e430c3cf30cd3d",
+
 {"key":"csp_xpath_ctv","name":"冲TMTV(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://gitee.com/hd2019/OneClickRun/raw/master/xpath/chongtmtv.json"},
 {"key":"csp_xpath_汉城影院","name":"汉城影院(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/hancheng.json"},
 {"key":"csp_xpath_libv","name":"Libvio(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/libv.json"},
